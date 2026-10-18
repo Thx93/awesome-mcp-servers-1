@@ -247,6 +247,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
+- <img src="https://github.com/Thx93.png" height="14"/> [Thx93/mcp-weather-server](https://github.com/Thx93/mcp-weather-server) - US National Weather Service lookups as two read-only tools: active alerts for a two-letter state code, and the next five forecast periods for a latitude and longitude. Runs locally from source (the NWS API is free and keyless); the hosted endpoint is free to discover and costs $0.003 USDC per call on Base via x402.
 
 
 <br />
